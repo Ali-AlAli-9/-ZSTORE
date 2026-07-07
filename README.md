@@ -84,7 +84,7 @@ Frontend runs on `http://localhost:5173` and proxies API requests to Django on p
 
 ### Default Credentials (after seeding)
 
-- **Admin:** `zoro1` / `zoro123456`
+- **Admin:** `admin / admin123`
 
 ## Environment Variables (.env)
 
