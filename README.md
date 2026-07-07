@@ -1,5 +1,7 @@
 # ZSTORE — E-Commerce Platform
 
+> **Disclaimer:** This is a demo/e-commerce platform for portfolio purposes only. All products, prices, and transactions shown are fictional. No real payments are processed.
+
 Full-stack e-commerce with Django REST Framework (Python 3.14 + Django 6.0) backend and React 19 + Vite 8 + Tailwind CSS v4 frontend.
 
 ## Features
